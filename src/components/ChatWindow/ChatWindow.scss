@@ -1,0 +1,9 @@
+.chat-window {
+  padding: 30px;
+  height: 100%;
+  overflow-y: auto;
+
+  &__message {
+    font-size: 18px;
+  }
+}
